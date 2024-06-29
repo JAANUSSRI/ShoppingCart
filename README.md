@@ -1,4 +1,4 @@
-# ShoppingCart
+# Shopping Cart Web Application
 Basic shopping cart two tier web application using React
 
 Aim:
